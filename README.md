@@ -1,23 +1,7 @@
-# Проект: Путешествие по России
+# russian-travel
+Hi! I'm *Yaroslavna*. <br> This project was made as homework for training courses **Yandex Practicum**. This is my second project.
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+It consist a one-page site made using html and css technologies. Inside the project you will find many descriptions of tourist natural places in Russia.
 
-**Интро**
+![](https://i.ibb.co/8MVyqkq/2021-09-28-16-43-25.png)
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
-
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!

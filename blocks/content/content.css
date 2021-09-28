@@ -1,0 +1,23 @@
+.content {
+  font-family: inherit;
+  padding: 56px 0 0 0;
+}
+
+@media(max-width: 1024px) {
+  .content {
+    max-width: 1024px;
+    padding-top: 48px;
+  }
+}
+
+@media(max-width: 768px) {
+  .content {
+    max-width: 768px;
+  }
+}
+
+@media(max-width: 320px) {
+  .content {
+    max-width: 320px;
+  }
+}
