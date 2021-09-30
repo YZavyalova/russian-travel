@@ -6,13 +6,13 @@
     max-width: 100%;
 }
 
-@media(max-width: 1024px) {
+@media(max-width: 1040px) {
     .places {
         padding: 92px 48px;
     }
 }
 
-@media(max-width: 768px) {
+@media(max-width: 810px) {
     .places {
         padding: 88px 24px 90px;
         gap: 73px;
