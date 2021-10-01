@@ -1,7 +1,12 @@
-# russian-travel
-Hi! I'm *Yaroslavna*. <br> This project was made as homework for training courses **Yandex Practicum**. This is my second project.
+# Путешествия по России
+Этот проект был сделан в качестве домашнего задания на обучающем курсе Яндекс Практикум.
 
-It consist a one-page site made using html and css technologies. Inside the project you will find many descriptions of tourist natural places in Russia.
+
+Он состоит из одностраничного сайта, внутри можно найти множество описаний и фотографии туристических природных мест по всей России. Проект был сделан, используя html и css.
+
 
 ![](https://i.ibb.co/8MVyqkq/2021-09-28-16-43-25.png)
+
+
+Ссылка на  github: https://yzavyalova.github.io/russian-travel/
 
